@@ -58,9 +58,6 @@ Ideal for chatbots, AI assistants, or any application requiring real-time AI int
 
 ---
 
-**Contribute**  
-PRs are welcome! Check out the [issues](https://github.com/yourusername/yourrepo/issues) for feature requests or bugs.  
-
 🌟 **Star the repo** if you find this project useful!  
 
 --- 
